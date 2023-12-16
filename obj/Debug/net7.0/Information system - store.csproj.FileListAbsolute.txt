@@ -1,0 +1,18 @@
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\Information system - store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\Information system - store.AssemblyInfoInputs.cache
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\Information system - store.AssemblyInfo.cs
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\Information system - store.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\Information system - store\Information system - store\bin\Debug\net7.0\Information system - store.exe
+C:\Users\yaney\source\repos\Information system - store\Information system - store\bin\Debug\net7.0\Information system - store.deps.json
+C:\Users\yaney\source\repos\Information system - store\Information system - store\bin\Debug\net7.0\Information system - store.runtimeconfig.json
+C:\Users\yaney\source\repos\Information system - store\Information system - store\bin\Debug\net7.0\Information system - store.dll
+C:\Users\yaney\source\repos\Information system - store\Information system - store\bin\Debug\net7.0\Information system - store.pdb
+C:\Users\yaney\source\repos\Information system - store\Information system - store\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\Information system - store.csproj.AssemblyReference.cache
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\Information system - store.csproj.CopyComplete
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\Information system - store.dll
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\refint\Information system - store.dll
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\Information system - store.pdb
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\Information system - store.genruntimeconfig.cache
+C:\Users\yaney\source\repos\Information system - store\Information system - store\obj\Debug\net7.0\ref\Information system - store.dll
+C:\Users\yaney\source\repos\Information system - store\Information system - store\bin\Debug\net7.0\CsvHelper.dll
